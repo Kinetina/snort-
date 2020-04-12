@@ -6,3 +6,13 @@ LDFLAGS=
 OBJECTS= $(SOURCE:.cc=.o)
 
 EXECUTABLE= bayesian
+
+
+all:  $(SOURCE) $(EXECUTABLE)
+
+
+$(EXECUTABLE): $(OBJECTS)
+	$(CC) $(LDFLAGS) $(OBJECTS) -o $@
+
+.cc.o:
+	$(CC) $(CFLAGS) $< -o $@
