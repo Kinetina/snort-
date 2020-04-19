@@ -1,2 +1,2 @@
 # Bayesian
-Naive 
+Naive Bayes clas
