@@ -1,2 +1,2 @@
 # Bayesian
-Nai
+Naive 
