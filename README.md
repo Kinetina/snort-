@@ -1,2 +1,2 @@
 # Bayesian
-Naive Bayes clas
+Naive Bayes classifier
