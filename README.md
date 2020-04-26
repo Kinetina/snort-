@@ -1,2 +1,2 @@
 # Bayesian
-Naive Bayes classifier and Bayesia
+Naive Bayes classifier and Bayesian networ
