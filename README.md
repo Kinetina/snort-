@@ -1,2 +1,4 @@
 # Bayesian
-Naive Bayes classifier and Bayesian network classifier C++ implementa
+Naive Bayes classifier and Bayesian network classifier C++ implementation
+
+Re
