@@ -5,4 +5,6 @@ Reference :
 
 [Naive Bayes Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
-[Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_networ
+[Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network)
+
+U
