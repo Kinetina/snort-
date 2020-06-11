@@ -8,3 +8,5 @@ Reference :
 [Bayesian Network](https://en.wikipedia.org/wiki/Bayesian_network)
 
 Usage:
+```
+./ba
