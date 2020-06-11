@@ -9,4 +9,4 @@ Reference :
 
 Usage:
 ```
-./bayesian [tr
+./bayesian [training da
