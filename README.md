@@ -9,4 +9,4 @@ Reference :
 
 Usage:
 ```
-./ba
+./bayesian [tr
