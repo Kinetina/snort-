@@ -9,4 +9,4 @@ Reference :
 
 Usage:
 ```
-./bayesian [training data file] [test d
+./bayesian [training data file] [test data file]
