@@ -10,3 +10,5 @@ Reference :
 Usage:
 ```
 ./bayesian [training data file] [test data file] [configuration file] [method]
+```
+method 
