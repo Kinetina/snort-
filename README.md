@@ -13,4 +13,4 @@ Usage:
 ```
 method :
 ```
-0 
+0 : naive b
