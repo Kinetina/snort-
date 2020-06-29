@@ -11,4 +11,6 @@ Usage:
 ```
 ./bayesian [training data file] [test data file] [configuration file] [method]
 ```
-method 
+method :
+```
+0 
