@@ -13,4 +13,5 @@ Usage:
 ```
 method :
 ```
-0 : naive b
+0 : naive bayesian
+1 
