@@ -14,4 +14,4 @@ Usage:
 method :
 ```
 0 : naive bayesian
-1 : bay
+1 : bayesian ne
