@@ -17,4 +17,5 @@ method :
 1 : bayesian network
 ```
 
-Exam
+Example:
+```
