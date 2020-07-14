@@ -15,4 +15,6 @@ method :
 ```
 0 : naive bayesian
 1 : bayesian network
-`
+```
+
+Exam
