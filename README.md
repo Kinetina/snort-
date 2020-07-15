@@ -19,4 +19,4 @@ method :
 
 Example:
 ```
-./ba
+./bayesian 
