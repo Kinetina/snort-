@@ -19,4 +19,4 @@ method :
 
 Example:
 ```
-./bayesian breast_c
+./bayesian breast_cancer
