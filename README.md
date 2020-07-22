@@ -19,4 +19,4 @@ method :
 
 Example:
 ```
-./bayesian breast_cancer_data/breast-cancer-wisconsi
+./bayesian breast_cancer_data/breast-cancer-wisconsin-400-recor
