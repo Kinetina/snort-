@@ -23,4 +23,4 @@ Example:
 ```
 
 
-Train
+Training & Te
