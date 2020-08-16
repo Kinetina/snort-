@@ -23,4 +23,4 @@ Example:
 ```
 
 
-Training & Te
+Training & Test data are in
