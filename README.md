@@ -23,4 +23,5 @@ Example:
 ```
 
 
-Training & Test data are in CSV fo
+Training & Test data are in CSV format:
+`
