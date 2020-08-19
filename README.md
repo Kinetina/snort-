@@ -25,4 +25,4 @@ Example:
 
 Training & Test data are in CSV format:
 ```
-[ attribute 1 of dat
+[ attribute 1 of data 1 ],
