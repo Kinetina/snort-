@@ -29,4 +29,4 @@ Training & Test data are in CSV format:
 [ attribute 1 of data 2 ],[ attribute 2 of data 2 ], ........ ,[ true result of data 2 ]
 [ attribute 1 of data 3 ],[ attribute 2 of data 3 ], ........ ,[ true result of data 3 ]
 ```
-* For real prediction, don't need
+* For real prediction, don't need to 
