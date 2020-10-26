@@ -31,4 +31,4 @@ Training & Test data are in CSV format:
 ```
 * For real prediction, don't need to provide true result. Need to pass second argument "0" for the "Predict" API.
 
-Configuration
+Configuration file 
