@@ -33,4 +33,4 @@ Training & Test data are in CSV format:
 
 Configuration file format:
 ```
-[ number of tra
+[ number of training
