@@ -35,4 +35,4 @@ Configuration file format:
 ```
 [ number of training instance ]  [ number of test instance ]  [ number of attributes ]
 
-[ attribut
+[ attribute 1 i
