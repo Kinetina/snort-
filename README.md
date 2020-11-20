@@ -35,4 +35,4 @@ Configuration file format:
 ```
 [ number of training instance ]  [ number of test instance ]  [ number of attributes ]
 
-[ attribute 1 is discrete(0) or cont
+[ attribute 1 is discrete(0) or continunous(
