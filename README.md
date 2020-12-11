@@ -37,4 +37,4 @@ Configuration file format:
 
 [ attribute 1 is discrete(0) or continunous(1) ]  [ attribute 2 is discrete(0) or continunous(1) ]  ......
 
-[ 
+[ number of
