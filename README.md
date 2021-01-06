@@ -37,4 +37,6 @@ Configuration file format:
 
 [ attribute 1 is discrete(0) or continunous(1) ]  [ attribute 2 is discrete(0) or continunous(1) ]  ......
 
-[ number of types for attributes 1 ]  [ number of types for attributes 2 ]  .......[ number of classes for prediction re
+[ number of types for attributes 1 ]  [ number of types for attributes 2 ]  .......[ number of classes for prediction result ]  
+
+* F
