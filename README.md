@@ -41,3 +41,6 @@ Configuration file format:
 
 * For continuous data, the "number of types for attributes" won't matter.
 * Bayesian Network DO NOT support continuous data for now.
+```
+
+D
