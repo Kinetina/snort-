@@ -43,4 +43,4 @@ Configuration file format:
 * Bayesian Network DO NOT support continuous data for now.
 ```
 
-D
+Data set is ac
