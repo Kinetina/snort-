@@ -43,4 +43,4 @@ Configuration file format:
 * Bayesian Network DO NOT support continuous data for now.
 ```
 
-Data set is acquired from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%2
+Data set is acquired from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29)
