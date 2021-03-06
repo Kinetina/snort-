@@ -1,3 +1,4 @@
 #include "bayesian.h"
 
-#include <fstre
+#include <fstream>
+#i
