@@ -1,4 +1,6 @@
 #include "bayesian.h"
 
 #include <fstream>
-#include <iostr
+#include <iostream>
+
+namespace 
