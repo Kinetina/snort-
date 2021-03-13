@@ -4,4 +4,4 @@
 #include <iostream>
 
 namespace machinelearning {
-namespace ba
+namespace baysian
