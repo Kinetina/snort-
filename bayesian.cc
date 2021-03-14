@@ -6,4 +6,4 @@
 namespace machinelearning {
 namespace baysian {
 
-void 
+void Bayesian
