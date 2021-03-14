@@ -6,4 +6,4 @@
 namespace machinelearning {
 namespace baysian {
 
-void Bayesian::ParseConfiguration(
+void Bayesian::ParseConfiguration(char *cfg_file
