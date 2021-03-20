@@ -7,4 +7,4 @@ namespace machinelearning {
 namespace baysian {
 
 void Bayesian::ParseConfiguration(char *cfg_file) {
-  std::ifstr
+  std::ifstream c
