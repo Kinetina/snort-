@@ -9,4 +9,4 @@ namespace baysian {
 void Bayesian::ParseConfiguration(char *cfg_file) {
   std::ifstream configure;
   configure.open(cfg_file);
-  if (!confi
+  if (!configure
