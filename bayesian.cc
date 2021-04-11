@@ -10,4 +10,5 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
   std::ifstream configure;
   configure.open(cfg_file);
   if (!configure) {
-    std::cout << "Can't open configuration file!" << std::end
+    std::cout << "Can't open configuration file!" << std::endl;
+    re
