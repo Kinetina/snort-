@@ -14,4 +14,4 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
     return;
   }
 
- 
+  configure >>
