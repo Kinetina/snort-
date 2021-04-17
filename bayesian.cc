@@ -14,4 +14,4 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
     return;
   }
 
-  configure >> num_train_in
+  configure >> num_train_instances_ >>
