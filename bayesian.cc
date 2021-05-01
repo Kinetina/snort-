@@ -15,4 +15,4 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
   }
 
   configure >> num_train_instances_ >> num_test_instances_ >> num_attributes_;
-  // read the number of training instances and at
+  // read the number of training instances and attribute
