@@ -17,4 +17,4 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
   configure >> num_train_instances_ >> num_test_instances_ >> num_attributes_;
   // read the number of training instances and attributes
 
-  is_discrete_.re
+  is_discrete_.resize(num_at
