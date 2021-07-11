@@ -22,4 +22,4 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
   for (int i = 0; i < num_attributes_; ++i) configure >> is_discrete_[i];
   //  read the information about continuous or not
 
-  num_class_for_each_attribute_.resiz
+  num_class_for_each_attribute_.resize(num_at
