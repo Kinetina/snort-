@@ -23,4 +23,6 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
   //  read the information about continuous or not
 
   num_class_for_each_attribute_.resize(num_attributes_ + 1);
-  // this array store the number of classes of each attribu
+  // this array store the number of classes of each attribute
+
+ 
