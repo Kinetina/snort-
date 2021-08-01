@@ -25,4 +25,4 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
   num_class_for_each_attribute_.resize(num_attributes_ + 1);
   // this array store the number of classes of each attribute
 
-  for (int i 
+  for (int i = 0; i <= n
