@@ -27,4 +27,4 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
 
   for (int i = 0; i <= num_attributes_; ++i) {  // read the number of classes
     configure >> num_class_for_each_attribute_[i];
-    if (i != num_attributes_ &
+    if (i != num_attributes_ &&  is_di
