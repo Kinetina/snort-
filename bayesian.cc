@@ -32,4 +32,4 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
       num_class_for_each_attribute_[i] = 2;
   }
 
-  num_output_class_ = num_
+  num_output_class_ = num_class_for_ea
