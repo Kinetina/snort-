@@ -38,4 +38,5 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
   configure.close();
 }
 
-}  // namespace bay
+}  // namespace baysian
+}  /
