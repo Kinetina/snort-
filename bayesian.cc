@@ -39,4 +39,4 @@ void Bayesian::ParseConfiguration(char *cfg_file) {
 }
 
 }  // namespace baysian
-}  /
+}  // namespac
