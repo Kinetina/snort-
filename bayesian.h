@@ -1,1 +1,1 @@
-#ifndef BAYES
+#ifndef BAYESIAN_H_
