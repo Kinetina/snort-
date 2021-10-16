@@ -1,2 +1,2 @@
 #ifndef BAYESIAN_H_
-#defin
+#define BAYESIAN_
