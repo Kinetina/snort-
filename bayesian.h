@@ -3,4 +3,4 @@
 
 #include "machinelearning.h"
 
-namespace mach
+namespace machinelearning 
