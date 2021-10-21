@@ -3,4 +3,5 @@
 
 #include "machinelearning.h"
 
-namespace machinelearning 
+namespace machinelearning {
+namesp
