@@ -4,4 +4,4 @@
 #include "machinelearning.h"
 
 namespace machinelearning {
-namesp
+namespace baysi
