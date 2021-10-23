@@ -4,4 +4,6 @@
 #include "machinelearning.h"
 
 namespace machinelearning {
-namespace baysi
+namespace baysian {
+
+clas
