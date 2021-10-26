@@ -6,4 +6,4 @@
 namespace machinelearning {
 namespace baysian {
 
-class Bayesian
+class Bayesian : public M
