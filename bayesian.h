@@ -7,4 +7,5 @@ namespace machinelearning {
 namespace baysian {
 
 class Bayesian : public MachineLearning {
- protected
+ protected:
+  vo
