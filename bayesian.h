@@ -8,4 +8,4 @@ namespace baysian {
 
 class Bayesian : public MachineLearning {
  protected:
-  void Pars
+  void ParseConfigurat
