@@ -9,4 +9,4 @@ namespace baysian {
 class Bayesian : public MachineLearning {
  protected:
   void ParseConfiguration(char *);
-  
+  std::vect
