@@ -10,4 +10,4 @@ class Bayesian : public MachineLearning {
  protected:
   void ParseConfiguration(char *);
   std::vector<double> output_class_cnt_;
-  // this array
+  // this array store t
