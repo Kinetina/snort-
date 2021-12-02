@@ -11,4 +11,4 @@ class Bayesian : public MachineLearning {
   void ParseConfiguration(char *);
   std::vector<double> output_class_cnt_;
   // this array store the total number of
-  // each decision'
+  // each decision's cla
