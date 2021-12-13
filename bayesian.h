@@ -13,4 +13,4 @@ class Bayesian : public MachineLearning {
   // this array store the total number of
   // each decision's class in training data
   std::vector<int> is_discrete_;
-  // this arr
+  // this array store th
