@@ -15,4 +15,4 @@ class Bayesian : public MachineLearning {
   std::vector<int> is_discrete_;
   // this array store the information about each attribute
   // is continuous or not
-  std::vector<int> num_class_for_e
+  std::vector<int> num_class_for_each_attr
