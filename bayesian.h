@@ -17,4 +17,4 @@ class Bayesian : public MachineLearning {
   // is continuous or not
   std::vector<int> num_class_for_each_attribute_;
   // this array store the number of classes of each attribute
-  int num_attributes_
+  int num_attributes_;      
