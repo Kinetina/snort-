@@ -18,4 +18,4 @@ class Bayesian : public MachineLearning {
   std::vector<int> num_class_for_each_attribute_;
   // this array store the number of classes of each attribute
   int num_attributes_;                 // store the number of attributes
-  int num_ou
+  int num_output_
