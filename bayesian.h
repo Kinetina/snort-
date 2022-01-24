@@ -22,4 +22,5 @@ class Bayesian : public MachineLearning {
 };
 
 }  // namespace baysian
-}  // namespace machinelearni
+}  // namespace machinelearning
+#endif
