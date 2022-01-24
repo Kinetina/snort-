@@ -22,4 +22,4 @@ class Bayesian : public MachineLearning {
 };
 
 }  // namespace baysian
-}  // namesp
+}  // namespace machi
