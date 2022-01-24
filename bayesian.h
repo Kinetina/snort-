@@ -19,4 +19,6 @@ class Bayesian : public MachineLearning {
   // this array store the number of classes of each attribute
   int num_attributes_;                 // store the number of attributes
   int num_output_class_;               // the number of output classes
-}
+};
+
+}  //
