@@ -21,4 +21,4 @@ class Bayesian : public MachineLearning {
   int num_output_class_;               // the number of output classes
 };
 
-}  //
+}  // names
