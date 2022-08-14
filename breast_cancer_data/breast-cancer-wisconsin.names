@@ -31,3 +31,9 @@ Citation Request:
       USA
    -- Donor: Olvi Mangasarian (mangasarian@cs.wisc.edu)
       Received by David W. Aha (aha@cs.jhu.edu)
+   -- Date: 15 July 1992
+
+3. Past Usage:
+
+   Attributes 2 through 10 have been used to represent instances.
+   Each instance has one of 2 possible classes: benign or malignant.
