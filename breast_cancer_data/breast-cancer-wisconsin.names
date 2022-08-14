@@ -37,3 +37,12 @@ Citation Request:
 
    Attributes 2 through 10 have been used to represent instances.
    Each instance has one of 2 possible classes: benign or malignant.
+
+   1. Wolberg,~W.~H., \& Mangasarian,~O.~L. (1990). Multisurface method of 
+      pattern separation for medical diagnosis applied to breast cytology. In
+      {\it Proceedings of the National Academy of Sciences}, {\it 87},
+      9193--9196.
+      -- Size of data set: only 369 instances (at that point in time)
+      -- Collected classification results: 1 trial only
+      -- Two pairs of parallel hyperplanes were found to be consistent with
+         50% of the data
