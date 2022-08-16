@@ -46,3 +46,12 @@ Citation Request:
       -- Collected classification results: 1 trial only
       -- Two pairs of parallel hyperplanes were found to be consistent with
          50% of the data
+         -- Accuracy on remaining 50% of dataset: 93.5%
+      -- Three pairs of parallel hyperplanes were found to be consistent with
+         67% of data
+         -- Accuracy on remaining 33% of dataset: 95.9%
+
+   2. Zhang,~J. (1992). Selecting typical instances in instance-based
+      learning.  In {\it Proceedings of the Ninth International Machine
+      Learning Conference} (pp. 470--479).  Aberdeen, Scotland: Morgan
+      Kaufmann.
