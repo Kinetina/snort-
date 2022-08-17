@@ -55,3 +55,8 @@ Citation Request:
       learning.  In {\it Proceedings of the Ninth International Machine
       Learning Conference} (pp. 470--479).  Aberdeen, Scotland: Morgan
       Kaufmann.
+      -- Size of data set: only 369 instances (at that point in time)
+      -- Applied 4 instance-based learning algorithms 
+      -- Collected classification results averaged over 10 trials
+      -- Best accuracy result: 
+         -- 1-nearest neighbor: 93.7%
