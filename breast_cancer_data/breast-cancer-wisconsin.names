@@ -60,3 +60,9 @@ Citation Request:
       -- Collected classification results averaged over 10 trials
       -- Best accuracy result: 
          -- 1-nearest neighbor: 93.7%
+         -- trained on 200 instances, tested on the other 169
+      -- Also of interest:
+         -- Using only typical instances: 92.2% (storing only 23.1 instances)
+         -- trained on 200 instances, tested on the other 169
+
+4. Relevant Information:
