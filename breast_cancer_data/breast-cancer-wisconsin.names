@@ -66,3 +66,12 @@ Citation Request:
          -- trained on 200 instances, tested on the other 169
 
 4. Relevant Information:
+
+   Samples arrive periodically as Dr. Wolberg reports his clinical cases.
+   The database therefore reflects this chronological grouping of the data.
+   This grouping information appears immediately below, having been removed
+   from the data itself:
+
+     Group 1: 367 instances (January 1989)
+     Group 2:  70 instances (October 1989)
+     Group 3:  31 instances (February 1990)
