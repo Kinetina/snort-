@@ -80,3 +80,16 @@ Citation Request:
      Group 6:  49 instances (Updated January 1991)
      Group 7:  31 instances (June 1991)
      Group 8:  86 instances (November 1991)
+     -----------------------------------------
+     Total:   699 points (as of the donated datbase on 15 July 1992)
+
+   Note that the results summarized above in Past Usage refer to a dataset
+   of size 369, while Group 1 has only 367 instances.  This is because it
+   originally contained 369 instances; 2 were removed.  The following
+   statements summarizes changes to the original Group 1's set of data:
+
+   #####  Group 1 : 367 points: 200B 167M (January 1989)
+   #####  Revised Jan 10, 1991: Replaced zero bare nuclei in 1080185 & 1187805
+   #####  Revised Nov 22,1991: Removed 765878,4,5,9,7,10,10,10,3,8,1 no record
+   #####                  : Removed 484201,2,7,8,8,4,3,10,3,4,1 zero epithelial
+   #####                  : Changed 0 to 1 in field 6 of sample 1219406
