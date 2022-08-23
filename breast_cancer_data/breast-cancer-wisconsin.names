@@ -114,3 +114,14 @@ Citation Request:
    8. Bland Chromatin               1 - 10
    9. Normal Nucleoli               1 - 10
   10. Mitoses                       1 - 10
+  11. Class:                        (2 for benign, 4 for malignant)
+
+8. Missing attribute values: 16
+
+   There are 16 instances in Groups 1 to 6 that contain a single missing 
+   (i.e., unavailable) attribute value, now denoted by "?".  
+
+9. Class distribution:
+ 
+   Benign: 458 (65.5%)
+   Malignant: 241 (34.5%)
