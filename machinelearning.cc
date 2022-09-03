@@ -3,4 +3,6 @@
 #include <fstream>
 #include <iostream>
 
-namespace machinelearn
+namespace machinelearning {
+
+//
