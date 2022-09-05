@@ -5,4 +5,4 @@
 
 namespace machinelearning {
 
-// calculat
+// calculate the Accura
