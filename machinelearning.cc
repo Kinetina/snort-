@@ -6,4 +6,4 @@
 namespace machinelearning {
 
 // calculate the Accuracy
-void MachineLearning::A
+void MachineLearning::Accuracy(s
