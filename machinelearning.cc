@@ -6,4 +6,4 @@
 namespace machinelearning {
 
 // calculate the Accuracy
-v
+void MachineLe
