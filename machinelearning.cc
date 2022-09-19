@@ -7,4 +7,4 @@ namespace machinelearning {
 
 // calculate the Accuracy
 void MachineLearning::Accuracy(std::vector<int>& outcome,
-                               std::vector
+                               std::vector<int>& tr
