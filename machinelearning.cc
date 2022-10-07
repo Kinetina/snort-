@@ -11,4 +11,4 @@ void MachineLearning::Accuracy(std::vector<int>& outcome,
   double correct = 0;  // store the number of correct predictions
 
   for (int i = 0; i < num_test_instances_; ++i)
-  
+  // count th
