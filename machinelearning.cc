@@ -14,4 +14,4 @@ void MachineLearning::Accuracy(std::vector<int>& outcome,
   // count the number of correct predictions
   {
     if (outcome[i] == truth[i]) correct++;
-#if
+#ifdef DEBU
