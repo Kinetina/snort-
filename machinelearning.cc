@@ -13,4 +13,5 @@ void MachineLearning::Accuracy(std::vector<int>& outcome,
   for (int i = 0; i < num_test_instances_; ++i)
   // count the number of correct predictions
   {
-    if (outcome[i] == truth[i]) cor
+    if (outcome[i] == truth[i]) correct++;
+#if
