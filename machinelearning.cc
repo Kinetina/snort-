@@ -15,4 +15,5 @@ void MachineLearning::Accuracy(std::vector<int>& outcome,
   {
     if (outcome[i] == truth[i]) correct++;
 #ifdef DEBUG
-    std::cout << "predict to be " << outcome[i] << " is actually " << tru
+    std::cout << "predict to be " << outcome[i] << " is actually " << truth[i]
+    
