@@ -19,4 +19,4 @@ void MachineLearning::Accuracy(std::vector<int>& outcome,
               << std::endl;
 #endif
   }
-  std::cout <
+  std::cout << "Total 
