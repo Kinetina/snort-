@@ -20,4 +20,4 @@ void MachineLearning::Accuracy(std::vector<int>& outcome,
 #endif
   }
   std::cout << "Total " << num_test_instances_ << " data have " << correct
-            << " correct pred
+            << " correct predictions
