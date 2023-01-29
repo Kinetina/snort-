@@ -21,4 +21,5 @@ void MachineLearning::Accuracy(std::vector<int>& outcome,
   }
   std::cout << "Total " << num_test_instances_ << " data have " << correct
             << " correct predictions" << std::endl;
-  double percentage = correct / num_test_instances_;  // calculate th
+  double percentage = correct / num_test_instances_;  // calculate the Accuracy
+  
