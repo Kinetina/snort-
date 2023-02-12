@@ -25,4 +25,4 @@ void MachineLearning::Accuracy(std::vector<int>& outcome,
   std::cout << "Accuracy is " << percentage * 100 << "%" << std::endl;
 }
 
-}  
+}  // namesp
