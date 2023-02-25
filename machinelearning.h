@@ -14,3 +14,9 @@ class MachineLearning {
 
  protected:
   virtual void ParseConfiguration(char *) = 0;
+  int num_train_instances_;  // store the number of training instances
+  int num_test_instances_;   // store the number of testing instances
+};
+
+}  // namespace machinelearning
+#endif
